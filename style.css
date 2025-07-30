@@ -90,7 +90,12 @@ body {
 .button-container {
     width: 300px;
     justify-content: center;
+    display: flex;
+    gap: 2em;
 }
+
+
+
 
 /* Estilos de entrada de texto */
 .input-title {
@@ -159,4 +164,8 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+.button-draw:disabled {
+    background: #898989;
 }
