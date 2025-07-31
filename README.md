@@ -11,7 +11,7 @@
 
 <h2>Funcionalidades del proyecto :hammer:</h2>
 
-***• FUNCIONALIDAD 1:*** Ingreso de nombres de muchos amigos para jugar.
+***`• FUNCIONALIDAD 1:`*** Ingreso de nombres de muchos amigos para jugar.
 
 ***• FUNCIONALIDAD 2:*** Visualización dinámica de la lista de los nombres añadidos.
 
@@ -24,5 +24,7 @@ Da un ejemplo
 ```
 ### Instalación
 
-> [! IMPORTANTE]
+> ```IMPORTANTE```
 > Hola que mas
+
+`Funcionalidade 1:`
