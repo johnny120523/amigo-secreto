@@ -11,13 +11,13 @@
 
 <h2>Funcionalidades del proyecto :hammer:</h2>
 
-***`• FUNCIONALIDAD 1:`*** Ingreso de nombres de muchos amigos para jugar.
+:heavy_check_mark:**`FUNCIONALIDAD 1:`** Ingreso de nombres de muchos amigos para jugar.
 
-***• FUNCIONALIDAD 2:*** Visualización dinámica de la lista de los nombres añadidos.
+:heavy_check_mark:**`FUNCIONALIDAD 2:`** Visualización dinámica de la lista de los nombres añadidos.
 
-***• FUNCIONALIDAD 3:*** Hay un botón llamado **“Sortear amigo”** con el cual se dará a conocer cual es el amigo secreto.
+:heavy_check_mark:**`FUNCIONALIDAD 3:`** Hay un botón llamado **“Sortear amigo”** con el cual se dará a conocer cual es el amigo secreto.
 
-***• FUNCIONALIDAD 4:*** Cuenta con una interfaz moderna, cómoda y fácil de usar 
+:heavy_check_mark:**`FUNCIONALIDAD 4:`** Cuenta con una interfaz moderna, cómoda y fácil de usar 
 
 ```
 Da un ejemplo
