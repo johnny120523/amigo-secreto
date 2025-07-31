@@ -9,7 +9,7 @@
 
 •[Insignias](#insignias)
 
-•[Índice](#índice)
+•[INDICE](#INDICE)
 
 •[Descripción del proyecto](#descripción-del-proyecto)
 
