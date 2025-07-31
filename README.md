@@ -7,8 +7,22 @@
   <img align="left"src="https://img.shields.io/badge/FINALIZACION-31/Julio/2025-blue"/>
 </p>
 
-<p >"Amigo Secreto" es una aplicación web sencilla e interactiva desarrollada en HTML, CSS y JavaScript que permite a los usuarios registrar nombres de amigos y realizar un sorteo aleatorio para asignar un amigo secreto.</p>
+**Amigo Secreto** es una aplicación web sencilla e interactiva desarrollada en HTML, CSS y JavaScript que permite a los usuarios registrar nombres de amigos y realizar un sorteo aleatorio para asignar un amigo secreto.
 
 <h2>Funcionalidades del proyecto :hammer:</h2>
-`Funcionalidades`
-<md>Funcionalidades</md>
+
+***• FUNCIONALIDAD 1:*** Ingreso de nombres de muchos amigos para jugar.
+
+***• FUNCIONALIDAD 2:*** Visualización dinámica de la lista de los nombres añadidos.
+
+***• FUNCIONALIDAD 3:*** Hay un botón llamado **“Sortear amigo”** con el cual se dará a conocer cual es el amigo secreto.
+
+***• FUNCIONALIDAD 4:*** Cuenta con una interfaz moderna, cómoda y fácil de usar 
+
+```
+Da un ejemplo
+```
+### Instalación
+
+> [! IMPORTANTE]
+> Hola que mas
