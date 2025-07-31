@@ -10,8 +10,5 @@
 <p >"Amigo Secreto" es una aplicación web sencilla e interactiva desarrollada en HTML, CSS y JavaScript que permite a los usuarios registrar nombres de amigos y realizar un sorteo aleatorio para asignar un amigo secreto.</p>
 
 <h2>Funcionalidades del proyecto :hammer:</h2>
-> [!IMPORTANT]
-> AQUI TIENES UN CONSEJO
-## ⚠️ Advertencia
-Ten cuidado con modificar este archivo directamente.
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2
+`Funcionalidades`
+<md>Funcionalidades</md>
