@@ -11,7 +11,7 @@
 
 - [Descripcion del proyecto](#Descripcion-del-proyecto)
   
-- [Demostración del juego](#Demostración-del-juego)
+- [Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
 
 - [Demostración del juego](#Demostración-del-juego)
 
@@ -29,7 +29,7 @@
 
 <h2>
   
-  ## Funcionalidades del proyecto :hammer:
+  ## Funcionalidades del proyecto  :hammer:
 </h2>
 
 :heavy_check_mark:**`FUNCIONALIDAD 1:`** Ingreso de nombres de muchos amigos para jugar.
@@ -64,8 +64,7 @@ https://johnny120523.github.io/amigo-secreto/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-## Desarrollador 
-:black_nib:
+## Desarrollador✒️ 
 
 | [<img src="https://github.com/user-attachments/assets/826be976-9214-4cd3-9c10-6a8844f1a568" width=115><br><sub>Johnny Stanley Ortiz Mondragon</sub>](https://github.com/johnny120523) |
 | :---: |
