@@ -61,6 +61,8 @@ https://johnny120523.github.io/amigo-secreto/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
+## Desarrollador
+
 <h2 >
   
   ## Desarrollador :black_nib:
