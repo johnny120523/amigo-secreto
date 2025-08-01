@@ -19,12 +19,37 @@
 
 :heavy_check_mark:**`FUNCIONALIDAD 4:`** Cuenta con una interfaz moderna, cómoda y fácil de usar 
 
+<h2>Demostración del juego :movie_camera:</h2>
+
+<div align="center" width="800" height="450">
+  
+  ![Grabación de pantalla 2025-07-31 191130](https://github.com/user-attachments/assets/0216aa9d-4fc3-4722-87d1-9dcc86ad507f)
+</div>
+
+<h2>Link de la pagina :link:</h2>
+
 ```
-Da un ejemplo
+https://johnny120523.github.io/amigo-secreto/
 ```
+
+<h2>Herramientas Utilizadas </h2>
+<p >
+<img width="40" height="40" alt="Visual Studio Code"  src="https://code.visualstudio.com/assets/images/code-stable.png" style="margin-right: 500px;"/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+
+
+
+
 ### Instalación
 
-> ```IMPORTANTE```
-> Hola que mas
+> ```LINK DE LA PAGINA```
+
 
 `Funcionalidade 1:`
