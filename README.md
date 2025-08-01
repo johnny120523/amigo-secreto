@@ -25,7 +25,7 @@
 
 - [Desarrollador](#Desarrollador)
 
-### Descripcion del proyecto
+## Descripcion del proyecto
 
 <h2>Funcionalidades del proyecto :hammer:</h2>
 
@@ -61,7 +61,7 @@ https://johnny120523.github.io/amigo-secreto/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-<h2>Desarrollador :black_nib:</h2>
+<h2 ## Desarrollador>Desarrollador :black_nib:</h2>
 
 | [<img src="https://github.com/user-attachments/assets/826be976-9214-4cd3-9c10-6a8844f1a568" width=115><br><sub>Johnny Stanley Ortiz Mondragon</sub>](https://github.com/johnny120523) |
 | :---: |
