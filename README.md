@@ -10,6 +10,8 @@
 ## ☰ Indice 
 
 - [Descripcion del proyecto](#Descripcion-del-proyecto)
+  
+- [Demostración del juego](#Demostración-del-juego)
 
 - [Demostración del juego](#Demostración-del-juego)
 
@@ -25,7 +27,10 @@
 
 **Amigo Secreto** es una aplicación web sencilla e interactiva desarrollada en HTML, CSS y JavaScript que permite a los usuarios registrar nombres de amigos y realizar un sorteo aleatorio para asignar un amigo secreto.
 
-<h2>Funcionalidades del proyecto :hammer:</h2>
+<h2>
+  
+  ## Funcionalidades del proyecto :hammer:
+</h2>
 
 :heavy_check_mark:**`FUNCIONALIDAD 1:`** Ingreso de nombres de muchos amigos para jugar.
 
@@ -60,6 +65,7 @@ https://johnny120523.github.io/amigo-secreto/
 </p>
 
 ## Desarrollador 
+:black_nib:
 
 | [<img src="https://github.com/user-attachments/assets/826be976-9214-4cd3-9c10-6a8844f1a568" width=115><br><sub>Johnny Stanley Ortiz Mondragon</sub>](https://github.com/johnny120523) |
 | :---: |
