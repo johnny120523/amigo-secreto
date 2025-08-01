@@ -19,17 +19,17 @@
 
 - [Herramientas Utilizadas](#Herramientas-Utilizadas)
 
-- [Desarrollador✒️](#Desarrollador✒️)
+- [Desarrollador](#Desarrollador)
   
 - [Licencia](#Licencia)
 
-## Descripcion del proyecto :clipboard:
+## Descripcion del proyecto
 
 **Amigo Secreto** es una aplicación web sencilla e interactiva desarrollada en HTML, CSS y JavaScript que permite a los usuarios registrar nombres de amigos y realizar un sorteo aleatorio para asignar un amigo secreto.
 
 <h2>
   
-  ## Funcionalidades del proyecto  :hammer:
+  ## Funcionalidades del proyecto 
 </h2>
 
 :heavy_check_mark:**`FUNCIONALIDAD 1:`** Ingreso de nombres de muchos amigos para jugar.
@@ -40,20 +40,20 @@
 
 :heavy_check_mark:**`FUNCIONALIDAD 4:`** Cuenta con una interfaz moderna, cómoda y fácil de usar 
 
-## Demostración del juego :movie_camera:
+## Demostración del juego
 
 <div align="center" width="800" height="450">
   
   ![Grabación de pantalla 2025-07-31 191130](https://github.com/user-attachments/assets/0216aa9d-4fc3-4722-87d1-9dcc86ad507f)
 </div>
 
-## Link de la pagina :link:
+## Link de la pagina
 
 ```
 https://johnny120523.github.io/amigo-secreto/
 ```
 
-## Herramientas Utilizadas :hammer_and_wrench:
+## Herramientas Utilizadas
 <p >
 <img width="40" height="40" alt="Visual Studio Code"  src="https://code.visualstudio.com/assets/images/code-stable.png" style="margin-right: 500px;"/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -64,12 +64,12 @@ https://johnny120523.github.io/amigo-secreto/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-## Desarrollador✒️
+## Desarrollador✒
 
 | [<img src="https://github.com/user-attachments/assets/826be976-9214-4cd3-9c10-6a8844f1a568" width=115><br><sub>Johnny Stanley Ortiz Mondragon</sub>](https://github.com/johnny120523) |
 | :---: |
 
-## Licencia :page_facing_up:
+## Licencia
 
 Amigo Secreto is [MIT licensed](./LICENSE).
 
