@@ -9,6 +9,24 @@
 
 **Amigo Secreto** es una aplicación web sencilla e interactiva desarrollada en HTML, CSS y JavaScript que permite a los usuarios registrar nombres de amigos y realizar un sorteo aleatorio para asignar un amigo secreto.
 
+### Indice 
+
+- [Descripcion del proyecto](#descrição-do-projeto)
+
+- [Funcionalidades](#funcionalidades)
+
+- [Aplicação](#aplicação)
+
+- [Ferramentas utilizadas](#ferramentas-utilizadas)
+
+- [Acesso ao projeto](#acesso-ao-projeto)
+
+- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+
+- [Desarrollador](#Desarrollador)
+
+### Descripcion del proyecto
+
 <h2>Funcionalidades del proyecto :hammer:</h2>
 
 :heavy_check_mark:**`FUNCIONALIDAD 1:`** Ingreso de nombres de muchos amigos para jugar.
@@ -43,13 +61,14 @@ https://johnny120523.github.io/amigo-secreto/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
+<h2>Desarrollador :black_nib:</h2>
 
+| [<img src="https://github.com/user-attachments/assets/826be976-9214-4cd3-9c10-6a8844f1a568" width=115><br><sub>Johnny Stanley Ortiz Mondragon</sub>](https://github.com/johnny120523) |
+| :---: |
 
+<h2>Licencia</h2>
 
+Amigo Secreto is [MIT licensed](./LICENSE).
 
-### Instalación
+The Amigo Secreto documentation (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
 
-> ```LINK DE LA PAGINA```
-
-
-`Funcionalidade 1:`
